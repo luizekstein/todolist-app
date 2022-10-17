@@ -1,2 +1,5 @@
 # todolist-app
-Aplicativo criado com Firebase e Kotlin.
+
+Projeto criado para fins de aprendizado.
+
+Recursos utilizados: Firebase, Clean code e arch, Navigations, Graphic, CRUD, Authentication, etc.
