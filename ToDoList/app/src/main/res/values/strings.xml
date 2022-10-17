@@ -1,0 +1,95 @@
+<resources>
+    <!--    Welcome-->
+    <string name="app_name">ToDoList</string>
+    <string name="welcome_app">Bem-vindo(a) ao ToDoList</string>
+
+    <!--    Login Fragment-->
+    <string name="text_name_email">E-mail</string>
+    <string name="text_name_password">Senha</string>
+    <string name="text_create_account">Criar conta</string>
+    <string name="text_recover_account">Recuperar conta</string>
+    <string name="text_info_email">Informe seu e-mail.</string>
+    <string name="text_info_password">Informe sua senha.</string>
+    <string name="text_terms_app">Ao continuar você estará concordando com Termos de\nUso e Política de Privacidade do ToDoList</string>
+    <string name="button_login">Login</string>
+    <string name="button_create_account">Criar conta</string>
+    <string name="button_recover_account">Recuperar conta</string>
+    <string name="text_invalid_email_or_password">E-mail e/ou senha invalidos.</string>
+
+    <!--    Recover Account Fragment -->
+    <string name="button_send">Enviar</string>
+    <string name="text_send_email_password">Pronto, um link foi enviado para o e-mail fornecido. Verifique a caixa de spam ou o lixo eletrônico.</string>
+    <string name="text_warning_send_email">Informe seu e-mail para receber um\nlink de alteração de senha.</string>
+
+    <!--    Placeholder Fragment-->
+    <string name="placeholder_email">email@email.com</string>
+    <string name="placeholder_password">********</string>
+    <string name="placeholder_create_task">Digite aqui o nome da sua tarefa…</string>
+
+    <!--    TabLayout Home Fragment-->
+    <string name="to_do">Não feito</string>
+    <string name="doing">Em andamento</string>
+    <string name="done">Concluído</string>
+
+    <!--    Error Firebase Authentication-->
+    <string name="account_not_registered_register">Nenhuma conta encontrada com este e-mail.</string>
+    <string name="invalid_email_register">Insira um e-mail válido.</string>
+    <string name="invalid_password_register">Senha inválida, tente novamente.</string>
+    <string name="email_in_use_register">Este e-mail já está em uso.</string>
+    <string name="strong_password_register">Insira uma senha mais forte.</string>
+    <string name="error_generic">Ocorreu um erro. Por favor, tente novamente mais tarde.</string>
+
+    <!--    FormTask Fragment-->
+    <string name="text_title_form_task">Nova tarefa</string>
+    <string name="text_description_form_task">Descrição</string>
+    <string name="text_status_form_task">Status</string>
+    <string name="button_save_task">Salvar</string>
+    <string name="button_info_description_task_form_task">Informe uma descrição para a tarefa.</string>
+    <string name="text_title_editing_task_form_task">Editando tarefa…</string>
+    <string name="text_task_update_sucess_form_task">Tarefa atualizada com sucesso.</string>
+    <string name="text_task_saved_sucess_form_task">Tarefa salva com sucesso.</string>
+    <string name="text_error_saved_tasks_form_task">Erro ao salvar a tarefa.</string>
+
+    <!--    ToDo Fragment-->
+    <string name="text_title_loading_tasks_to_do">Carregando tarefas…</string>
+    <string name="text_task_list_empty_todo_fragment">Nenhuma tarefa cadastrada.</string>
+    <string name="text_task_update_sucess_to_do">Tarefa atualizada com sucesso.</string>
+    <string name="text_task_remove_sucess_to_do">Tarefa removida com sucesso.</string>
+    <string name="text_error_saved_tasks_to_do">Erro ao salvar a tarefa.</string>
+    <string name="text_error_get_tasks_to_do">Erro.</string>
+    <string name="text_task_delete_sucess_to_do">Tarefa removida com sucesso.</string>
+    <string name="text_message_delete_task_to_do">Deseja realmente remover esta tarefa?</string>
+
+    <!--    Doing Fragment-->
+    <string name="text_title_loading_tasks_doing">Carregando tarefas…</string>
+    <string name="text_task_list_empty_doing_fragment">Nenhuma tarefa cadastrada.</string>
+    <string name="text_task_update_sucess_doing">Tarefa atualizada com sucesso.</string>
+    <string name="text_task_remove_sucess_doing">Tarefa removida com sucesso.</string>
+    <string name="text_error_saved_tasks_doing">Erro ao salvar a tarefa.</string>
+    <string name="text_error_get_tasks_doing">Erro.</string>
+    <string name="text_task_delete_sucess_doing">Tarefa removida com sucesso.</string>
+    <string name="text_message_delete_task_doing">Deseja realmente remover esta tarefa?</string>
+
+    <!--    Done Fragment-->
+    <string name="text_title_loading_tasks_done">Carregando tarefas…</string>
+    <string name="text_task_list_empty_done_fragment">Nenhuma tarefa cadastrada.</string>
+    <string name="text_task_update_sucess_done">Tarefa atualizada com sucesso.</string>
+    <string name="text_task_remove_sucess_done">Tarefa removida com sucesso.</string>
+    <string name="text_error_saved_tasks_done">Erro ao salvar a tarefa.</string>
+    <string name="text_error_get_tasks_done">Erro.</string>
+    <string name="text_task_delete_sucess_done">Tarefa removida com sucesso.</string>
+    <string name="text_message_delete_task_done">Deseja realmente remover esta tarefa?</string>
+
+    <!--    Bottom Sheet-->
+    <string name="text_title_bottom_sheet">Atenção</string>
+    <string name="text_btn_bottom_sheet">Entendi</string>
+    <string name="text_btn_confirm">Confirmar</string>
+    <string name="text_ask_logout">Deseja realmente sair?</string>
+    <string name="text_function_developer">Funcionalidade em desenvolvimento</string>
+
+    <!--    item_adapter.xml-->
+    <string name="text_btn_remove">Remover</string>
+    <string name="text_btn_edit">Editar</string>
+    <string name="text_btn_detail">Detalhe</string>
+
+</resources>

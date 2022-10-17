@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_color_app">#000000</color>
+
+    <color name="gray">#505050</color>
+    <color name="gray_weak">#787878</color>
+
+    <color name="weak_gray">#CFCFCF</color>
+
+    <color name="color_remove">#500000</color>
+    <color name="color_edit">#002800</color>
+    <color name="color_detail">#000028</color>
+
+    <color name="color_todo">#E68A01</color>
+    <color name="color_doing">#E68A01</color>
+    <color name="color_done">#E68A01</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="progressBar">#E68A01</color>
+    <color name="floatActionButton">#E68A01</color>
+    <color name="floatActionButtonMost">#FFFFFFFF</color>
+    <color name="inputEditText">#E68A01</color>
+    <color name="nameButtons">#FFFFFFFF</color>
+    <color name="cardTasks">#E68A01</color>
+    <color name="cardArrows">#FFFFFFFF</color>
+    <color name="arrows">#E68A01</color>
+    <color name="bottomSheet">#E68A01</color>
+    <color name="backgroundBottomSheet">#FFFFFFFF</color>
+    <color name="titleBottomSheet">#E68A01</color>
+    <color name="messageBottomSheet">#FF000000</color>
+    <color name="titleLogin">#E68A01</color>
+    <color name="messageLogin">#FF000000</color>
+    <color name="buttons">#E68A01</color>
+    <color name="titleHome">#E68A01</color>
+    <color name="logoHome">#E68A01</color>
+    <color name="icLogout">#E68A01</color>
+</resources>

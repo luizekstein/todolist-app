@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357311595000",
+    "project_id": "traningnow",
+    "storage_bucket": "traningnow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357311595000:android:16c3d1f5ea9b11846d160d",
+        "android_client_info": {
+          "package_name": "br.com.dev.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357311595000-esm08coqcatgf25ul85t2qp88k2eu34h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.dev.todolist",
+            "certificate_hash": "3bb0e0733479093d0e4487b2625b46d41b471939"
+          }
+        },
+        {
+          "client_id": "357311595000-ngm199ifc5tvuk46ea9dure7jm6i17q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDLhMJk3qvxbVFEkucq6MhZRmr2GSEHAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357311595000-ngm199ifc5tvuk46ea9dure7jm6i17q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
